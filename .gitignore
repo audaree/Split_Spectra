@@ -1,0 +1,6 @@
+# Exclude data files
+Plots/
+Retired/
+Wind_data/
+*.png
+*.csv
